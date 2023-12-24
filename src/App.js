@@ -1,12 +1,16 @@
 import React from "react"
 import { useState,useEffect } from "react"
-
-
 const App=()=>{
   const[data,setdata]=useState([])
   const fetchusers=async()=>{
   try{
-  const response=await fetch("data.json")
+  const response=await fetch("./data.Json",{
+    headers:{
+      'Content-Type': 'application/json',
+      'Accept': 'application/json'
+
+    }
+  })
   const result=await  response.json()
   setdata(result)
   console.log(result)
