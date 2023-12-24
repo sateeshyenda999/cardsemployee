@@ -4,7 +4,7 @@ const App=()=>{
   const[data,setdata]=useState([])
   const fetchusers=async()=>{
   try{
-  const response=await fetch("./data.Json",{
+  const response=await fetch("data.Json",{
     headers:{
       'Content-Type': 'application/json',
       'Accept': 'application/json'
