@@ -1,5 +1,4 @@
-[
-{ 
+{
 
     "paging": { 
 
@@ -65,7 +64,8 @@
 
             "responsibilities": null, 
 
-            "tags": [] 
+            "tags": [] ,
+            "percentage":30
 
         }, 
 
@@ -115,7 +115,8 @@
 
             "responsibilities": null, 
 
-            "tags": [] 
+            "tags": [] ,
+            "percentage":50
 
         }, 
 
@@ -165,7 +166,8 @@
 
             "responsibilities": null, 
 
-            "tags": [] 
+            "tags": [] ,
+            "percentage":10
 
         }, 
 
@@ -215,7 +217,8 @@
 
             "responsibilities": null, 
 
-            "tags": [] 
+            "tags": [] ,
+            "percentage":60
 
         }, 
 
@@ -265,7 +268,8 @@
 
             "responsibilities": null, 
 
-            "tags": [] 
+            "tags": [] ,
+            "percentage":80
 
         }, 
 
@@ -315,7 +319,8 @@
 
             "responsibilities": null, 
 
-            "tags": [] 
+            "tags": [] ,
+            "percentage":40
 
         }, 
 
@@ -365,7 +370,8 @@
 
             "responsibilities": null, 
 
-            "tags": [] 
+            "tags": [] ,
+            "percentage":25
 
         }, 
 
@@ -415,7 +421,8 @@
 
             "responsibilities": null, 
 
-            "tags": [] 
+            "tags": [] ,
+            "percentage":65
 
         }, 
 
@@ -465,11 +472,12 @@
 
             "responsibilities": null, 
 
-            "tags": [] 
+            "tags": [] ,
+            "percentage":99
 
         } 
 
     ] 
 
 } 
-]
+
